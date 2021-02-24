@@ -9800,6 +9800,9 @@
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [Aizada Murat](https://github.com/aizada-murat)
+- Sevda Erkan(https://github.com/SevdaErkan)
+- [Gauhar Kudret](https://github.com/Gauhar0404)
+- [Eliza Amanbaeva](https://github.com/elzeveta)
 - [Marat Gaipov](https://github.com/maratgaip)
 - [Gauhar Kudret](https://github.com/Gauhar0404)
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
@@ -9807,3 +9810,4 @@
 - [Chopa Usen](https://github.com/chopa)
 
 sam_namiranian
+
