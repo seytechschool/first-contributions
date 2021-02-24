@@ -9802,8 +9802,8 @@ Jiawen Yang
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
 - [aikal]
+- [Gauhar Kudret](https://github.com/Gauhar0404)
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
 - [Tomiris Andarbayeva]
 - [Chopa Usen](https://github.com/chopa)
-
 sam_namiranian
