@@ -9805,3 +9805,6 @@
 - [Tomiris Andarbayeva]
 - [Chopa Usen](https://github.com/chopa)
 sam_namiranian
+- [Carina Ihtiyorova](https://github.com/carina-ihtiyorova)
+
+sam_namiranian
