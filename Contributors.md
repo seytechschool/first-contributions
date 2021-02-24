@@ -9799,8 +9799,8 @@
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
+- [Aizada Murat](https://github.com/aizada-murat)
 - Sevda Erkan(https://github.com/SevdaErkan)
-  sam_namiranian
 - [Gauhar Kudret](https://github.com/Gauhar0404)
 - [Eliza Amanbaeva](https://github.com/elzeveta)
 - [Marat Gaipov](https://github.com/maratgaip)
@@ -9808,5 +9808,6 @@
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
 - [Tomiris Andarbayeva]
 - [Chopa Usen](https://github.com/chopa)
+
 sam_namiranian
 
