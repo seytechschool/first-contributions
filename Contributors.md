@@ -9801,5 +9801,6 @@ Jiawen Yang
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
+[Nazira Uzakbaeva](https://github.com/FelipePanizio)
 
 sam_namiranian
