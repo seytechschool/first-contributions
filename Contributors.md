@@ -9800,6 +9800,10 @@ Jiawen Yang
 - [Ethan Kocheril]
 - kumarkeshav09(https://github.com/KrKeshav09)
 - [Mari Ashiga]
-- [Felipe Panizio](https://github.com/FelipePanizio)
+- [Felipe Panizio](https://github.com/FelipePanizio
 - [Zhamilia Begaleiva](https://github.com/zhamiliab) 
+- [Yauheni Padvoiski](https://github.com/zhpadvoiski)
+- [Tomiris Andarbayeva]
+- [Chopa Usen](https://github.com/chopa)
+
 sam_namiranian
