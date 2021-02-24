@@ -9803,9 +9803,13 @@
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
 - [Tomiris Andarbayeva]
 - [Chopa Usen](https://github.com/chopa)
+- Sevda Erkan(https://github.com/SevdaErkan)
+- [Gauhar Kudret](https://github.com/Gauhar0404)
+- [Eliza Amanbaeva](https://github.com/elzeveta)
 - [Marat Gaipov](https://github.com/maratgaip)
 - [Gauhar Kudret](https://github.com/Gauhar0404)
 - [Yauheni Padvoiski](https://github.com/zhpadvoiski)
 - [Tomiris Andarbayeva]
 - [Chopa Usen](https://github.com/chopa)
 sam_namiranian
+
