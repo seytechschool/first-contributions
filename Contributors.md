@@ -9796,11 +9796,14 @@
 - [Leo Nugraha](https://github.com/lnugraha)
 - [Karlen]
 - [Ethan Kocheril]
-- kumarkeshav09(https://github.com/KrKeshav09)
+- [kumarkeshav09](https://github.com/KrKeshav09)
 - [Mari Ashiga]
 - [Felipe Panizio](https://github.com/FelipePanizio)
+ -[Gulnaz Abdykadyrova](https://github.com)
+- [Yauheni Padvoiski](https://github.com/zhpadvoiski)
+- [Tomiris Andarbayeva]
+- [Chopa Usen](https://github.com/chopa)
 - Sevda Erkan(https://github.com/SevdaErkan)
-  sam_namiranian
 - [Gauhar Kudret](https://github.com/Gauhar0404)
 - [Eliza Amanbaeva](https://github.com/elzeveta)
 - [Marat Gaipov](https://github.com/maratgaip)
